@@ -37,7 +37,7 @@ Ensure your MySQL server is running.
 
 Create a database named iot_database.
 
-Create a table named iot_data with the following structure:
+##Create a table named iot_data with the following structure:
 
 sql
 Copy code
